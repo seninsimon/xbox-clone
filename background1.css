@@ -1,0 +1,9 @@
+.background1
+{
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  min-height:100vh;
+  max-height: 110vh;
+ 
+}
